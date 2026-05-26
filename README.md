@@ -1,4 +1,4 @@
-# Educase India Assignment - PopX Onboarding Flow
+# Educase India Assignment PopX(Landing Page)
 
 A responsive and interactive React application built for the Educase India assignment. This project faithfully recreates the PopX onboarding flow, featuring dynamic screens for user registration, secure login, and account settings management.
 
@@ -65,14 +65,4 @@ Educase-India-Assigment/
    ```bash
    npm run preview
    ```
-
-## Notes
-
-- The app uses a fixed 375px canvas centered in the viewport to match the assignment layout.
-- The avatar and favicon assets live in `src/assets/img` and `public` respectively.
-
-## Author
-
-- Daksh Yadav
-- Full-stack developer
-- GitHub: 0dux
+   
